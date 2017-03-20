@@ -1,7 +1,6 @@
 """
 Student Name :
 Student ID   :
-INFORMATION  : http://blogs.helsinki.fi/alakopsaa/processing-a-suspicion-of-cheating/?lang=en
 """
 from __future__ import print_function
 from pyspark import SparkContext, SparkConf
