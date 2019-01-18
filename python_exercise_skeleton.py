@@ -8,7 +8,8 @@ from pyspark import SparkContext, SparkConf
 class ExerciseSet2(object):
     """
     Big Data Frameworks Exercises
-    https://www.cs.helsinki.fi/courses/582740/2017/k/k/1
+    https://courses.helsinki.fi/en/data14001/124845011
+    # https://www.cs.helsinki.fi/courses/582740/2017/k/k/1
     """
 
     def __init__(self):
