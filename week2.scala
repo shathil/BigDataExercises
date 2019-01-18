@@ -11,6 +11,7 @@ import org.apache.spark.SparkContext._
 object week2 {
   /**
    * Big Data Frameworks Exercises
+   * https://courses.helsinki.fi/en/data14001/124845011
    * https://www.cs.helsinki.fi/courses/582740/2017/k/k/1 
    */
   
